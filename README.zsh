@@ -1,2 +1,2 @@
-open terminal
+
 touch MAC
